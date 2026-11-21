@@ -1,7 +1,13 @@
 # Mathematiques-et-IA
 Fichier à destination des étudiants et personnels pour le débat de mathématiques à l'université de Tours.
 
-## Piste de débats:
+## Table de matières:
+- [Pistes de débats](#pistes-de-débats:)
+    - [Je suis pour l'IA](#je-suis-pour-l'ia:)
+    - [Je suis contre l'IA](#je-suis-contre-l'ia:)
+- [Être informé](#être-informé:)
+
+## Pistes de débats:
 
 ### Je suis pour l'IA:
 Ajouter des pistes.
