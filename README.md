@@ -1,6 +1,8 @@
 # Mathematiques-et-IA
 Fichier à destination des étudiants et personnels pour le débat de mathématiques à l'université de Tours.
 
+> Les machines calculent vite, les humains donnent un sens.
+
 - [Pistes de débats](#pistes-de-débats)
     - [Je suis pour l'IA](#je-suis-pour-lia)
     - [Je suis contre l'IA](#je-suis-contre-lia)
@@ -10,7 +12,7 @@ Fichier à destination des étudiants et personnels pour le débat de mathémati
         - [Les 720 publications de OpenAI](#les-720-publications-de-openai)
     - [Articles, Essais & Textes de référence](#articles-essais--textes-de-référence)
         - [Textes fondamentaux & Manifestes](#textes-fondamentaux--manifestes-)
-    - [Projets et outils mentionnés dans ces débats](#-projets-et-outils-mentionnés-dans-ces-débats)
+    - [Projets, outils, et vocabulaire](#-projets-outils-et-vocabulaire)
 
 ## Pistes de débats:
 
@@ -42,7 +44,8 @@ Ajouter des pistes.
 
 - **William P. Thurston (1994)** — Le texte classique (cité par Tao) qui rappelle que le but des maths n'est pas de produire des théorèmes à la chaîne, mais de faire progresser la compréhension humaine : [On proof and progress in mathematics (arXiv)](https://arxiv.org)
 
-### 🛠️ Projets et outils mentionnés dans ces débats
+### 🛠️ Projets, outils, et vocabulaire
+
 Bien que cette page soit destinée à s’interroger sur l’usage et les apports de l'intelligence artificielle en mathématiques, il est peut être pertinent de mentionner quelques outils notables et de donner quelques liens : 
 - **[Mathlib / Lean 4](https://mathlib.org)** : Bibliothèque collaborative de mathématiques formalisées en Lean permettant de vérifier les preuves.
 - **[First Proof Project](https://1stproof.org)** : Initiative indépendante évaluant de manière rigoureuse les capacités des IA sur des problèmes de recherche inédits.
