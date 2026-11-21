@@ -30,3 +30,9 @@ Ajouter des pistes.
 - **David Bessis (Avril 2026)** — Essai critique sur le « mathslop » et la nécessité de replacer la clarté humaine au centre des mathématiques : [The Fall of the Theorem Economy (Substack)](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 
 - **William P. Thurston (1994)** — Le texte classique (cité par Tao) qui rappelle que le but des maths n'est pas de produire des théorèmes à la chaîne, mais de faire progresser la compréhension humaine : [On proof and progress in mathematics (arXiv)](https://arxiv.org)
+
+### 🛠️ Projets et outils mentionnés dans ces débats
+Bien que cette page soit destinée à s’interroger sur l’usage et les apports de l'intelligence artificielle en mathématiques, il est peut être pertinent de mentionner quelques outils notables et de donner quelques liens : 
+- **[Mathlib / Lean 4](https://mathlib.org)** : Bibliothèque collaborative de mathématiques formalisées en Lean permettant de vérifier les preuves.
+- **[First Proof Project](https://1stproof.org)** : Initiative indépendante évaluant de manière rigoureuse les capacités des IA sur des problèmes de recherche inédits.
+- **[Erdős Problems Database](https://erdosproblems.com)** : Base de données recensant les conjectures ouvertes de Paul Erdos, devenue l'un des principaux terrains d'expérimentation des IA mathématiques avec l’avancement sur chacun des problèmes ainsi que la part de l’IA dans cette preuve.
