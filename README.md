@@ -1,11 +1,16 @@
 # Mathematiques-et-IA
 Fichier à destination des étudiants et personnels pour le débat de mathématiques à l'université de Tours.
 
-## Table de matières:
-- [Pistes de débats](#pistes-de-débats:)
-    - [Je suis pour l'IA](#je-suis-pour-l'ia:)
-    - [Je suis contre l'IA](#je-suis-contre-l'ia:)
-- [Être informé](#être-informé:)
+- [Pistes de débats](#pistes-de-débats)
+    - [Je suis pour l'IA](#je-suis-pour-lia)
+    - [Je suis contre l'IA](#je-suis-contre-lia)
+- [Être informé](#être-informé)
+    - [Interviews](#interviews)
+        - [Avant la "résolution" de l'Hypothèse de Riemann](#avant-la-résolution-de-lhypothèse-de-riemann)
+        - [Les 720 publications de OpenAI](#les-720-publications-de-openai)
+    - [Articles, Essais & Textes de référence](#articles-essais--textes-de-référence)
+        - [Textes fondamentaux & Manifestes](#textes-fondamentaux--manifestes-)
+    - [Projets et outils mentionnés dans ces débats](#-projets-et-outils-mentionnés-dans-ces-débats)
 
 ## Pistes de débats:
 
@@ -42,3 +47,4 @@ Bien que cette page soit destinée à s’interroger sur l’usage et les apport
 - **[Mathlib / Lean 4](https://mathlib.org)** : Bibliothèque collaborative de mathématiques formalisées en Lean permettant de vérifier les preuves.
 - **[First Proof Project](https://1stproof.org)** : Initiative indépendante évaluant de manière rigoureuse les capacités des IA sur des problèmes de recherche inédits.
 - **[Erdős Problems Database](https://erdosproblems.com)** : Base de données recensant les conjectures ouvertes de Paul Erdos, devenue l'un des principaux terrains d'expérimentation des IA mathématiques avec l’avancement sur chacun des problèmes ainsi que la part de l’IA dans cette preuve.
+- **[Les problèmes de millénaire](https://fr.wikipedia.org/wiki/Problèmes_du_prix_du_millénaire)** : sont un ensemble de sept défis mathématiques réputés insurmontables, posés par l'Institut de mathématiques Clay en 2000, dont l'hypothèse de Riemann. La résolution de chacun des problèmes est dotée d'un prix d'un million de dollars américains offert par l'institut Clay. En 2026, six des sept problèmes demeurent non résolus.
