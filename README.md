@@ -1,6 +1,9 @@
 # Mathematiques-et-IA
 Fichier à destination des étudiants et personnels pour le débat de mathématiques à l'université de Tours.
 
+> [!NOTE]  
+> Les sites accompagnés de '★' doivent être consultés en premier.
+
 > Les machines calculent vite, les humains donnent un sens.
 
 - [Pistes de débats](#pistes-de-débats)
@@ -35,6 +38,9 @@ Fichier à destination des étudiants et personnels pour le débat de mathémati
 
 ### Sites à consulter:
 
+- [Les publications de OpenAI](https://github.com/openai/math). ★
+
+- [Vérficiation Lean de l'hypothèse de Riemann](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/). ★
 
 
 ### Interviews:
@@ -44,7 +50,7 @@ Fichier à destination des étudiants et personnels pour le débat de mathémati
 - Réponses de plusieurs mathématiciens sur la possibilité de résolution de l'hypothèse de Riemann par l'IA: [Since last year, we asked: “What if AI solved the Riemann Hypothesis? (13 mins)](https://www.youtube.com/watch?v=zqzk43bSdDI)
 
 #### Les 720 publications de OpenAI:
-- Interview de [Hugo Duminil-Copin]() avec le quotidien: [15 mins](https://youtu.be/qYhq6_sBGhc?si=Ik2qpeKrl86F81zT).
+- Interview de [Hugo Duminil-Copin]() avec le quotidien: [15 mins](https://youtu.be/qYhq6_sBGhc?si=Ik2qpeKrl86F81zT). ★
 - 3B1B sur le futur des mathématiques: [There has never been a better time to go into maths - 40 mins](https://www.youtube.com/watch?v=LKrwhjOI8Nc&t=1891s).
 
 #### La résolution de l'hypothèse de Riemann:
@@ -85,6 +91,6 @@ Bien que cette page soit destinée à s’interroger sur l’usage et les apport
 
 - **[La médaille Fields](https://fr.wikipedia.org/wiki/Médaille_Fields)** : médaille équivalente au prix Nobel pour les mathématiques.
 
-- **[L'hypothèse de Riemann](https://fr.wikipedia.org/wiki/Hypothèse_de_Riemann)** :  conjecture formulée en 1859 par le mathématicien allemand Bernhard Riemann, selon laquelle les zéros non triviaux de la fonction zêta de Riemann ont tous une partie réelle égale à 1/2.
+- **[L'hypothèse de Riemann](https://fr.wikipedia.org/wiki/Hypothèse_de_Riemann)** :  conjecture formulée en 1859 par le mathématicien allemand Bernhard Riemann, selon laquelle les zéros non triviaux de la fonction zêta de Riemann ont tous une partie réelle égale à 1/2. ★
 
 -  
